@@ -1,5 +1,5 @@
 # raspi-checkin
-check in system for a raspi lcd + scanner
+check in system for a raspi lcd + scanner for a school project
 
 # Before Usage
 
